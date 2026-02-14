@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://artem5867.github.io/game_site/sitemap.xml
